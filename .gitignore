@@ -1,0 +1,11 @@
+# never commit health data
+apple_health_import/
+reference_only/
+samsunghealth_*/
+*.zip
+*.csv
+!tests/**/*.csv
+
+__pycache__/
+*.pyc
+.DS_Store
