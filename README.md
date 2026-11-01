@@ -14,7 +14,7 @@ This script is the missing middle layer. It was validated end to end on a real e
 
 ## Quick start
 
-Requirements: Python 3.9 or newer, nothing else.
+Requirements: Python 3.10 or newer, nothing else.
 
 1. On the Android phone: Samsung Health → Settings → **Download personal data**. Unzip the result; you get a folder named like `samsunghealth_<user>_<timestamp>` containing `com.samsung.*.csv` files and a `jsons/` directory.
 2. Run the converter:
